@@ -11,11 +11,11 @@
 		"premium-verified" : ""	
 	},
 	"desktopImgByPage" : {
-		"home" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_B-copy.jpg",
-		"membership" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_B-copy.jpg",
-		"cg" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_B-copy.jpg",
-		"prologmateri" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_B-copy.jpg",
-		"downloadSoal" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_B-copy.jpg"	
+		"home" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp",
+		"membership" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp",
+		"cg" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp",
+		"prologmateri" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp",
+		"downloadSoal" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp"	
 	},
 	"desktopUrlByRole" : {
 		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
@@ -47,11 +47,11 @@
 		"premium-verified" : ""
 	},
 	"mobileImgByPage" : {
-		"home" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png",
-		"membership" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png",
-		"cg" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png",
-		"prologmateri" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png",
-		"downloadSoal" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png"	
+		"home" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp",
+		"membership" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp",
+		"cg" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp",
+		"prologmateri" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp",
+		"downloadSoal" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp"	
 	},
     "mobileUrlByRole" : {	
 		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
@@ -83,11 +83,11 @@
 		"premium-verified" : ""	
 	},
 	"macintoshImgByPage" : {
-		"home" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_B-copy.jpg",
-		"membership" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_A-copy-1.jpg",
-		"cg" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_A-copy-1.jpg",
-		"prologmateri" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_A-copy-1.jpg",
-		"downloadSoal" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_A-copy-1.jpg"	
+		"home" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp",
+		"membership" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp",
+		"cg" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp",
+		"prologmateri" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp",
+		"downloadSoal" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Web-Banner_-1.webp"	
 	},
     "macintoshUrlByRole" : {
 		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
@@ -119,11 +119,11 @@
 		"premium-verified" : ""	
 	},
 	"iphoneImgByPage" : {
-		"home" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png",
-		"membership" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png",
-		"cg" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png",
-		"prologmateri" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png",
-		"downloadSoal" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/Mobile-Banner_edited.png"	
+		"home" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp",
+		"membership" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp",
+		"cg" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp",
+		"prologmateri" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp",
+		"downloadSoal" : "https://www.zeniusnet.com/wp-content/uploads/2020/03/HargaBaru_OCT.webp"	
 	},
     "iphoneUrlByRole" : {
 		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
