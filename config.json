@@ -11,11 +11,11 @@
 		"premium-verified" : ""	
 	},
 	"desktopImgByPage" : {
-		"home" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp",
-		"membership" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp",
-		"cg" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp",
-		"prologmateri" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp",
-		"downloadSoal" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp"	
+		"home" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg",
+		"membership" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg",
+		"cg" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg",
+		"prologmateri" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg",
+		"downloadSoal" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg"	
 	},
 	"desktopUrlByRole" : {
 		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
@@ -47,11 +47,11 @@
 		"premium-verified" : ""
 	},
 	"mobileImgByPage" : {
-		"home" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp",
-		"membership" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp",
-		"cg" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp",
-		"prologmateri" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp",
-		"downloadSoal" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp"	
+		"home" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg",
+		"membership" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg",
+		"cg" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg",
+		"prologmateri" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg",
+		"downloadSoal" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg"	
 	},
     "mobileUrlByRole" : {	
 		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
@@ -83,11 +83,11 @@
 		"premium-verified" : ""	
 	},
 	"macintoshImgByPage" : {
-		"home" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp",
-		"membership" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp",
-		"cg" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp",
-		"prologmateri" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp",
-		"downloadSoal" : "https://www.zenius.net/wp-content/uploads/2020/03/Web-Banner_A-_2-1.webp"	
+		"home" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg",
+		"membership" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg",
+		"cg" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg",
+		"prologmateri" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg",
+		"downloadSoal" : "https://www.zenius.net/wp-content/uploads/2020/03/web_banner_a___2_-2.jpg"	
 	},
     "macintoshUrlByRole" : {
 		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
@@ -119,11 +119,11 @@
 		"premium-verified" : ""	
 	},
 	"iphoneImgByPage" : {
-		"home" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp",
-		"membership" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp",
-		"cg" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp",
-		"prologmateri" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp",
-		"downloadSoal" : "https://www.zenius.net/wp-content/uploads/2020/03/Mobile-Banner-_2.webp"	
+		"home" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg",
+		"membership" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg",
+		"cg" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg",
+		"prologmateri" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg",
+		"downloadSoal" : "https://www.zenius.net/wp-content/uploads/2020/03/mobile_banner___2_-1.jpg"	
 	},
     "iphoneUrlByRole" : {
 		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
